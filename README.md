@@ -1,6 +1,13 @@
+# MIT 18.06 线性代数（Linear Algebra）中文笔记
+
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-# 中文 Linear Algebra （线性代数） 笔记
++   [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
++   [ApacheCN 学习资源](http://www.apachecn.org/)
+
+<!-- break -->
+
++ [在线阅读](https://linalg.apachecn.org)
 
 ## Overview （概述）
 
@@ -63,7 +70,7 @@ I know my knowledge of linear algebra is not very thorough, so I re-learn linear
 - [16. **投影矩阵和最小二乘**](https://github.com/apachecn/math/blob/master/16-%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/16-%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98.md)
 	 - [16.01 投影矩阵](https://github.com/apachecn/math/blob/master/16-%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/16-%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98.md)
 	 - [16.02 最小二乘](https://github.com/apachecn/math/blob/master/16-%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/16-%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98.md)
-- [17. **正交矩阵和Gram-Schmidt正交化**](https://github.com/apachecn/math/blob/master/17-%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CGram-Schmidt%E6%AD%A3%E4%BA%A4%E5%8C%96/17-%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CGram-Schmidt%E6%AD%A3%E4%BA%A4%E5%8C%96.md6)
+- [17. **正交矩阵和Gram-Schmidt正交化**](https://github.com/apachecn/math/blob/master/17-%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CGram-Schmidt%E6%AD%A3%E4%BA%A4%E5%8C%96/17-%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CGram-Schmidt%E6%AD%A3%E4%BA%A4%E5%8C%96.md)
 	 - [17.01 正交矩阵](https://github.com/apachecn/math/blob/master/17-%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CGram-Schmidt%E6%AD%A3%E4%BA%A4%E5%8C%96/17-%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CGram-Schmidt%E6%AD%A3%E4%BA%A4%E5%8C%96.md)
 	 - [17.02 Gram-Schmidt正交化](https://github.com/apachecn/math/blob/master/17-%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CGram-Schmidt%E6%AD%A3%E4%BA%A4%E5%8C%96/17-%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CGram-Schmidt%E6%AD%A3%E4%BA%A4%E5%8C%96.md)
 - [18. **行列式及其性质**](https://github.com/apachecn/math/blob/master/18-%E8%A1%8C%E5%88%97%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/18-%E8%A1%8C%E5%88%97%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8.md)
